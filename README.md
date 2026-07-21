@@ -1,1 +1,1 @@
-practice for scripting 
+practice for scripting (basics). Introduction and exploration
